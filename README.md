@@ -2,9 +2,9 @@
 
 Basically the intuition behind this ctf was the easy predicability of {block.numer , block timestamp } since nothing is private on blockchain .
 
+Note that the transfer method is not secure at current existing blockchain world , as the underlying SSload instructions gas cost can be changed , 
 
-
-# Grab 
+which is vulnerable for an re-entrancy attack .
 
 
 # Run the attacker inside test folder 
